@@ -1,4 +1,4 @@
-# Lottie for Android, [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
+# Lottie-Light for Android forked from Lottie, [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
 
 ![Build Status](https://github.com/airbnb/lottie-android/workflows/Validate/badge.svg)
 
@@ -43,8 +43,17 @@ Click the sponsor button above to learn more
 
 ## Download
 
-Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 
+Add this to settings.gradle
+```groovy
+repositories {
+  google()
+  mavenCentral()
+  maven { url 'https://jitpack.io' }
+}
+```
+
+Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 ```groovy
 dependencies {
   implementation 'com.airbnb.android:lottie:$lottieVersion'
