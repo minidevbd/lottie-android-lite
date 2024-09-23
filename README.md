@@ -56,12 +56,12 @@ repositories {
 Gradle is the only supported build configuration, so just add the dependency to your project `build.gradle` file:
 ```groovy
 dependencies {
-  implementation 'com.airbnb.android:lottie:$lottieVersion'
+  implementation 'com.github.minidevbd:lottie-android-lite:$lottieVersion'
 }
 ```
 
 The latest Lottie version is:
-![lottieVersion](https://maven-badges.herokuapp.com/maven-central/com.airbnb.android/lottie/badge.svg)
+[![](https://jitpack.io/v/minidevbd/lottie-android-lite.svg)](https://jitpack.io/#minidevbd/lottie-android-lite)
 
 The latest stable [Lottie-Compose](http://airbnb.io/lottie/#/android-compose) version is:
 ![lottieVersion](https://maven-badges.herokuapp.com/maven-central/com.airbnb.android/lottie-compose/badge.svg)
