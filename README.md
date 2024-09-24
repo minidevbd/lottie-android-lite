@@ -1,4 +1,4 @@
-# Lottie-Lite for Android forked from [Lottie Android](https://github.com/airbnb/lottie}. Also available for [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
+# Lottie-Lite for Android forked from [Lottie Android](https://github.com/airbnb/lottie). Also available for [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
 
 ![Build Status](https://github.com/airbnb/lottie-android/workflows/Validate/badge.svg)
 
