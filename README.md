@@ -1,4 +1,4 @@
-# Lottie-Light for Android forked from Lottie, [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
+# Lottie-Lite for Android forked from Lottie, [iOS](https://github.com/airbnb/lottie-ios), [React Native](https://github.com/airbnb/lottie-react-native), [Web](https://github.com/airbnb/lottie-web), and [Windows](https://aka.ms/lottie)
 
 ![Build Status](https://github.com/airbnb/lottie-android/workflows/Validate/badge.svg)
 
@@ -60,7 +60,7 @@ dependencies {
 }
 ```
 
-The latest Lottie version is:
+The latest Lottie Lite version is:
 [![](https://jitpack.io/v/minidevbd/lottie-android-lite.svg)](https://jitpack.io/#minidevbd/lottie-android-lite)
 
 The latest stable [Lottie-Compose](http://airbnb.io/lottie/#/android-compose) version is:
